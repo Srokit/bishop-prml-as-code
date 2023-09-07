@@ -1,0 +1,8 @@
+Please create an issue in Github to track any new changes you want to make.
+
+Please create a pull request in Github to add your changes to the main branch and
+link the issue that is associated with the pull request.
+
+Prefer to use "Rebase and merge" option to merge instead of regular merge so that
+merge commits are not created.
+
